@@ -1,2 +1,4 @@
-# etl-kite-magnolia-8918
-etl-kite-magnolia-8918
+# CI Sandbox
+
+Internal CI test repository. See `.github/workflows/run.yml`.
+
